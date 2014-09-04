@@ -26,10 +26,6 @@ module.exports = {
     placeID: 'string',
     tipe: {
       type: 'string'
-    },
-    events:{
-    	collection: 'event',
-    	via: 'tempat'
     }
 
   }
